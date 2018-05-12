@@ -1,0 +1,32 @@
+_repo: A-Letter-to-American-Workingmen_35232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lenin, Vladimir Il'ich
+    aliases:
+    - Ленин, Владимир Ильич
+    - Lenin, Vladimir Ilyich
+    birthdate: 1870
+    deathdate: 1924
+    gutenberg_agent_id: '37547'
+    url: http://www.gutenberg.org/2009/agents/37547
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Lenin
+description: ''
+gutenberg_issued: '2011-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35232'
+  lccn: '23015317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'World War, 1914-1918 -- Economic aspects'
+- !lcc 'DK'
+title: A Letter to American Workingmen, from the Socialist Soviet Republic of Russia
+url: http://www.gutenberg.org/ebooks/35232
