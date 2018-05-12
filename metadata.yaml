@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37547
     wikipedia: http://en.wikipedia.org/wiki/Vladimir_Lenin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35232#A-Letter-to-American-Workingmen
 gutenberg_issued: '2011-02-10'
 gutenberg_type: Text
 identifiers:
